@@ -1,0 +1,21 @@
+
+.image-width{
+    width: 400px;
+}
+.responsive-card{
+    border: 0;
+
+}
+.responsive-card-footer{
+    background-color: white;
+    border: 0;
+}
+.button-color{
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    color: rgba(12, 11, 11, 0.733);
+}
+.color{
+    color: rgba(44, 5, 75, 0.952);
+}
